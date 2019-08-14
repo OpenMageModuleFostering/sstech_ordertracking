@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package>
+    <name>SSTech_Ordertracking</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Order Tracking Module which will allow customer to track the Status of Order without logging in to their account&#xD;
+Customer Can also track the information of shipment too.</summary>
+    <description>Order Tracking Module which will allow customer to track the Status of Order without logging in to their account&#xD;
+Customer Can also track the information of shipment too.&#xD;
+&lt;br/&gt;&#xD;
+Magento Default Theme will add the "Track Order" in the Top links&#xD;
+Customer have to just enter the order number and Email which will allow to show the status of the Order ad they track the order Easily &#xD;
+&lt;br/&gt;&#xD;
+&lt;strong&gt;Features&lt;strong&gt; &#xD;
+&lt;p&gt;Without login Customer can track the order Status&lt;/p&gt;&#xD;
+&lt;p&gt;Shipment status belong of Provide sites&lt;/p&gt;</description>
+    <notes>Stable version 0.1.0</notes>
+    <authors><author><name>Sandeep Gulati</name><user>sandy</user><email>sandynareshg@gmail.com</email></author></authors>
+    <date>2014-04-27</date>
+    <time>14:42:40</time>
+    <contents><target name="magecommunity"><dir name="SSTech"><dir name="Ordertracking"><dir name="Block"><file name="Ordertracking.php" hash="96c59a9b979173fa81c615ff3bbbd016"/></dir><dir name="Helper"><file name="Data.php" hash="716c6268a4b9372f34b010adba4d7cd9"/></dir><dir name="controllers"><file name="IndexController.php" hash="6e114a6acabcfdb98b0a670a9457c682"/></dir><dir name="etc"><file name="config.xml" hash="5af4f92d7b0062d59c5140c61c9d20e0"/><file name="system.xml" hash="a716ab127f67b296a18a899bd13d6861"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="SSTech_Ordertracking.xml" hash="426f3665451600519a44ebbc50370f41"/></dir></target><target name="magelocal"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="ordertracking.xml" hash=""/></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="ordertracking"><dir name="css"><file name="ordertracking.css" hash="12ed78e6f25752e6e0449213007af635"/></dir><dir name="images"><file name="Thumbs.db" hash="2e44a69c8cd5d418657605eeaef20c08"/><file name="ajax-loader-tr.gif" hash="1ae32bc8232ff2527c627e5b38eb319a"/><file name="ajax-loader.gif" hash="57ca1a2085d82f0574e3ef740b9a5ead"/><file name="main-bg.png" hash="615e539beac7fc4ad7b6aa7e519ca2ee"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
