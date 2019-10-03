@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/SSTech_Ordertracking",
-    "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
-    "homepage": "",
-    "description": "Order Tracking Module which will allow customer to track the Status of Order without logging in to their account
-Customer Can also track the information of shipment too.",
-    "authors": [
-    {
-        "name": "SSTech",
-        "email": "sandynareshg@gmail.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
